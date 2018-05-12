@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39927'
     url: http://www.gutenberg.org/2009/agents/39927
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39264#The-Grotesque-in-Church-Art
 gutenberg_issued: '2012-03-25'
 gutenberg_type: Text
 identifiers:
